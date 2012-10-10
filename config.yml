@@ -30,3 +30,4 @@ template: "simple"
 plugins:
   Tapir:
     thrift_idl: thrift/demo.thrift
+    documentation_staging_dir: data
