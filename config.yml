@@ -27,3 +27,6 @@ template: "simple"
 #     start_tag: '[%'
 #     end_tag:   '%]'
 
+plugins:
+  Tapir:
+    thrift_idl: thrift/demo.thrift
